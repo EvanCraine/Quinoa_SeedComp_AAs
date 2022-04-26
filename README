@@ -1,0 +1,16 @@
+Files
+  ESCL Murphy 3533_OGraw.xls
+    -raw data from Univeristy of Missouri Agriculture Experiment Station Chemical Laboratories
+    -includes proximate composition and amino acid profiles for the quinoa samples
+  wetChem_OGunits_FINAL.csv
+    -adapted `ESCL Murphy 3533_OGraw.xls` to .csv for reading into R
+    -`OGunits` refers to data reported in the same units as originally provided
+  wetChem_adj_FINAL.csv
+    -units have been adjusted to g/100g protein for amino acids, instead of grams per 100 g sample
+   showdown.csv
+    -R output modified in Excel
+  PDCAAS_preschool_1_2_ggplot.csv & PDCAAS_infant_ggplot.csv
+    -R outputs modified in Excel for better plotting with ggplot in R
+  gitHub_wetChem_working.R
+    -R script using some of the above files, to generate raw forms of the tables and figures presented in the published manuscript
+    

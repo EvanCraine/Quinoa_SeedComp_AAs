@@ -13,4 +13,6 @@ Files
     -R outputs modified in Excel for better plotting with ggplot in R
   gitHub_wetChem_working.R
     -R script using some of the above files, to generate raw forms of the tables and figures presented in the published manuscript
+  
+    -slides presented 2020 ASA-CSSA-SSSA International Annual Meeting | November | VIRTUAL
     
